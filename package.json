@@ -1,0 +1,19 @@
+{
+  "name": "@new-ui/effects",
+  "version": "0.1.0",
+  "description": "![](help/cover.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewDesignFile/effects.git"
+  },
+  "author": "Abhimanyu Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewDesignFile/effects/issues"
+  },
+  "homepage": "https://github.com/NewDesignFile/effects#readme"
+}
