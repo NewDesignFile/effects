@@ -1,9 +1,6 @@
-# New UI Typography
+# New UI Effects
 
 ![](assets/cover.png)
-
-## Effects for Figma
-[Get a Figma copy](https://www.figma.com/community/file/1179503548902179413)
 
 ## Install
 Install New UI Effects from your terminal via npm.
