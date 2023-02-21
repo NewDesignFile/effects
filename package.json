@@ -1,10 +1,15 @@
 {
   "name": "@new-ui/effects",
   "version": "0.1.0",
-  "description": "![](help/cover.png)",
-  "main": "index.js",
+  "description": "![](cover/cover.png)",
+  "source": "src/index.scss",
+  "main": "dist/index.css",
+  "targets": {
+    "main": false
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "parcel watch",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/NewDesignFile/effects/issues"
   },
-  "homepage": "https://github.com/NewDesignFile/effects#readme"
+  "homepage": "https://github.com/NewDesignFile/effects#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "autoprefixer": "^10.4.13",
+    "parcel": "^2.8.3"
+  }
 }
