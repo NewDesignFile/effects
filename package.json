@@ -1,6 +1,6 @@
 {
   "name": "@new-ui/effects",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "![](cover/cover.png)",
   "source": "src/index.scss",
   "main": "dist/index.css",
