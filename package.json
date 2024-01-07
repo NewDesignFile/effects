@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/NewDesignFile/effects#readme",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.8.3",
-    "autoprefixer": "^10.4.13",
-    "parcel": "^2.8.3"
+    "@parcel/transformer-sass": "^2.11.0",
+    "autoprefixer": "^10.4.16",
+    "parcel": "^2.11.0"
   }
 }
