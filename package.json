@@ -1,6 +1,6 @@
 {
   "name": "@new-ui/effects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "![](cover/cover.png)",
   "source": "src/index.scss",
   "main": "dist/index.css",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/NewDesignFile/effects.git"
   },
-  "author": "Abhimanyu Rana",
+  "author": "@planetabhi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/NewDesignFile/effects/issues"
