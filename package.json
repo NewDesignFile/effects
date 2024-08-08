@@ -1,7 +1,7 @@
 {
   "name": "@new-ui/effects",
   "version": "0.1.1",
-  "description": "![](cover/cover.png)",
+  "description": "Layering, elevations, and effects styles.",
   "source": "src/index.scss",
   "main": "dist/index.css",
   "targets": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/NewDesignFile/effects#readme",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.11.0",
-    "autoprefixer": "^10.4.16",
-    "parcel": "^2.11.0"
+    "@parcel/transformer-sass": "^2.12.0",
+    "autoprefixer": "^10.4.20",
+    "parcel": "^2.12.0"
   }
 }
