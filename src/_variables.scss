@@ -1,8 +1,10 @@
 :root {
   // Shadows
-  --dialog-strong: 0px 16px 48px rgba(0, 0, 0, 0.24);
-  --dialog: 0px 4px 8px rgba(0, 0, 0, 0.12);
-  --content: 0px 2px 4px rgba(0, 0, 0, 0.08);
+  --dialog-strong: 0px 16px 48px 0px rgba(22, 22, 22, 0.24);
+  --dialog: 0px 0px 0px 1px rgba(22, 22, 22, 0.12), 
+            0px 12px 30px 0px rgba(22, 22, 22, 0.16), 
+            0px 2px 3px 0px rgba(22, 22, 22, 0.12);
+  --content: 0px 2px 3px 0px rgba(22, 22, 22, 0.08);
   --canvas: 0px 0px 0px rgba(0, 0, 0, 0);
   --keyboard-key: 0 2px 0px var(--grey4);
 
